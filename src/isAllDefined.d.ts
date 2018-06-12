@@ -1,0 +1,1 @@
+export declare function isAllDefined(...values: any[]) : boolean;

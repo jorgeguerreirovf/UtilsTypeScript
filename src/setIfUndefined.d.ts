@@ -1,0 +1,1 @@
+export function setIfUndefined<T>(cur: T, def: T) : T;

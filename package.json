@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "utiltypescript@git+https://github.com/we-match/UtilsTypeScript.git",
+        "scope": null,
+        "escapedName": "utiltypescript",
+        "name": "utiltypescript",
+        "rawSpec": "git+https://github.com/we-match/UtilsTypeScript.git",
+        "spec": "git+https://github.com/we-match/UtilsTypeScript.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:we-match/UtilsTypeScript.git",
+          "sshUrl": "git+ssh://git@github.com/we-match/UtilsTypeScript.git",
+          "httpsUrl": "git+https://github.com/we-match/UtilsTypeScript.git",
+          "gitUrl": "git://github.com/we-match/UtilsTypeScript.git",
+          "shortcut": "github:we-match/UtilsTypeScript",
+          "directUrl": "https://raw.githubusercontent.com/we-match/UtilsTypeScript/master/package.json"
+        }
+      },
+      "c:\\Git\\be-mobile\\Source"
+    ]
+  ],
+  "_from": "git+https://github.com/we-match/UtilsTypeScript.git",
+  "_id": "utiltypescript@0.0.1",
+  "_inCache": true,
+  "_location": "/utiltypescript",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "utiltypescript@git+https://github.com/we-match/UtilsTypeScript.git",
+    "scope": null,
+    "escapedName": "utiltypescript",
+    "name": "utiltypescript",
+    "rawSpec": "git+https://github.com/we-match/UtilsTypeScript.git",
+    "spec": "git+https://github.com/we-match/UtilsTypeScript.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:we-match/UtilsTypeScript.git",
+      "sshUrl": "git+ssh://git@github.com/we-match/UtilsTypeScript.git",
+      "httpsUrl": "git+https://github.com/we-match/UtilsTypeScript.git",
+      "gitUrl": "git://github.com/we-match/UtilsTypeScript.git",
+      "shortcut": "github:we-match/UtilsTypeScript",
+      "directUrl": "https://raw.githubusercontent.com/we-match/UtilsTypeScript/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/we-match/UtilsTypeScript.git#5176acd97440b89e8487151b8ed936278ace1890",
+  "_shasum": "693301c94aad143fe6ba2981be75f79b9bf1aa35",
+  "_shrinkwrap": null,
+  "_spec": "utiltypescript@git+https://github.com/we-match/UtilsTypeScript.git",
+  "_where": "c:\\Git\\be-mobile\\Source",
+  "authors": {
+    "team": "We Match @ PDMFC",
+    "contributors": [
+      "David Fernandes <davidsf@pdmfc.com>",
+      "Lino Estevão <lestevao@pdmfc.com>",
+      "Sérgio Mota <smota@pdmfc.com>"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/we-match/UtilsTypeScript.git/issues"
+  },
+  "dependencies": {
+    "lodash": "4.17.4"
+  },
+  "description": "A set of tools for typescript based on lodash.",
+  "devDependencies": {},
+  "gitHead": "5176acd97440b89e8487151b8ed936278ace1890",
+  "homepage": "http://pdmfc.com",
+  "license": "MIT",
+  "name": "utiltypescript",
+  "optionalDependencies": {},
+  "readme": "#UtilsTypeScript\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we-match/UtilsTypeScript.git"
+  },
+  "version": "0.0.1"
+}
